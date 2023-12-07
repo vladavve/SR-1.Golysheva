@@ -1,0 +1,6 @@
+D:\Разработка программных модулей\golysheva_\obj\Debug\golysheva_.csproj.AssemblyReference.cache
+D:\Разработка программных модулей\golysheva_\obj\Debug\golysheva_.csproj.SuggestedBindingRedirects.cache
+D:\Разработка программных модулей\golysheva_\obj\Debug\App.g.cs
+D:\Разработка программных модулей\golysheva_\obj\Debug\golysheva__MarkupCompile.cache
+D:\Разработка программных модулей\golysheva_\obj\Debug\MainWindow.g.cs
+D:\Разработка программных модулей\golysheva_\obj\Debug\golysheva__MarkupCompile.lref
